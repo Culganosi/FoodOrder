@@ -27,6 +27,18 @@ const DUMMY_MEALS = [
     description: "Healthy...and green...",
     price: 18.99,
   },
+  {
+    id: "m5",
+    name: "Macaroni and Cheese",
+    description: "Mom's Specialty",
+    price: 12.99,
+  },
+  {
+    id: "m6",
+    name: "Meatloaf ala Cris",
+    description: "Moar Onions? You got it.",
+    price: 15.99,
+  },
 ];
 
 const AvailableMeals = () => {

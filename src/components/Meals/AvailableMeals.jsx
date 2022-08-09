@@ -39,6 +39,18 @@ const DUMMY_MEALS = [
     description: "Moar Onions? You got it.",
     price: 15.99,
   },
+  {
+    id: "m7",
+    name: "Green Eggs and Ham",
+    description: "You would eat it on a plane, you would eat it on a train.",
+    price: 10.99,
+  },
+  {
+    id: "m8",
+    name: "Poutine",
+    description: "Not the guy.",
+    price: 11.99,
+  },
 ];
 
 const AvailableMeals = () => {
